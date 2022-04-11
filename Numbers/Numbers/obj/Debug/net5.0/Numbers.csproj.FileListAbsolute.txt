@@ -1,0 +1,16 @@
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\bin\Debug\net5.0\Numbers.exe
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\bin\Debug\net5.0\Numbers.deps.json
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.json
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\bin\Debug\net5.0\Numbers.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\bin\Debug\net5.0\ref\Numbers.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\bin\Debug\net5.0\Numbers.pdb
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\obj\Debug\net5.0\ref\Numbers.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.pdb
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers\Numbers\obj\Debug\net5.0\Numbers.genruntimeconfig.cache

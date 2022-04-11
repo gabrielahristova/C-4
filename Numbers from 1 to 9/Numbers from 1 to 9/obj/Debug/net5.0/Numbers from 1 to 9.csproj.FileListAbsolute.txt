@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\bin\Debug\net5.0\Numbers from 1 to 9.exe
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\bin\Debug\net5.0\Numbers from 1 to 9.deps.json
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\bin\Debug\net5.0\Numbers from 1 to 9.runtimeconfig.json
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\bin\Debug\net5.0\Numbers from 1 to 9.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\bin\Debug\net5.0\Numbers from 1 to 9.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\bin\Debug\net5.0\ref\Numbers from 1 to 9.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\bin\Debug\net5.0\Numbers from 1 to 9.pdb
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\obj\Debug\net5.0\Numbers from 1 to 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\obj\Debug\net5.0\Numbers from 1 to 9.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\obj\Debug\net5.0\Numbers from 1 to 9.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\obj\Debug\net5.0\Numbers from 1 to 9.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\obj\Debug\net5.0\Numbers from 1 to 9.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\obj\Debug\net5.0\ref\Numbers from 1 to 9.dll
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\obj\Debug\net5.0\Numbers from 1 to 9.pdb
+C:\Users\gabri\OneDrive\Работен плот\C#\Numbers from 1 to 9\Numbers from 1 to 9\obj\Debug\net5.0\Numbers from 1 to 9.genruntimeconfig.cache
